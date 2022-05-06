@@ -1,7 +1,7 @@
 /**
  * @file index.js is the root file for this example app
  * @author Larissa Ramos
- * @see <a href="https://traversymedia.com">Traversy Media</a>
+ * @see <a href="https://www.youtube.com/watch?v=YK-GurROGIg&t=848s">JSDOC TIPS</a>
  */
 
 /**
